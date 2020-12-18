@@ -1,0 +1,16 @@
+﻿{
+  "category": "games/edition/base|bundles/games|editors|software/edition/base",
+  "count": 30,
+  "country": "GB",
+  "keywords": "",
+  "locale": "en-US",
+  "sortBy": "releaseDate",
+  "sortDir": "DESC",
+  "allowCountries": "GB",
+  "start": 0,
+  "tag": "",
+  "releaseDate": "[,2020-12-18T08:39:57.721Z]",
+  "freeGame": true,
+  "effectiveDate": "[,2020-12-18T08:39:57.721Z]",
+  "withPrice": true
+}
